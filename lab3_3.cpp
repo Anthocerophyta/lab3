@@ -2,9 +2,9 @@
 using namespace std;
 
 int main(){
-    float ans=0, n=2;
+    float ans=0, n=6;
 
-    while(n<=69){
+    while(n<=19){
         ans=1/n+ans;
         n++;
     }
